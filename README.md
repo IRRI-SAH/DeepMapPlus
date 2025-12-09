@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>🧬 DeepMapPlus</b>
+  <b> DeepMapPlus</b>
 </h1>
 
 <h3 align="center">
